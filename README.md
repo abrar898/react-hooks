@@ -170,4 +170,10 @@ https://animejs.com/                               AnimeJS
 https://mantine.dev/                               Mantime Dev
 https://daisyui.com/                               Daisy UI
 https://huntscreens.com/en/products/lynx
+https://www.heroui.com/
+    https://codingphase.com/
+    https://next-design-labs.github.io/docs/documentation/get-started
+    https://www.radix-ui.com/
+    https://tremor.so/
+    https://ui.shadcn.com/
 ---
