@@ -1,3 +1,4 @@
+---
 # react-hooks
 useEffect Hooks 
 it has two parameter a call back function  and a dependency array in this hooks we pass things in it if there is change in these function that you  would write in the useEffect if you doing anything to these then useEffect update the page  if there is any chnge in the useEFect a function are variable that are defined in the useEffect it update the page.
@@ -155,4 +156,17 @@ You can then pass the generated ID to different attributes:
   <input type="password" aria-describedby={passwordHintId} />
   <p id={passwordHintId}>
 </>
-
+###React Libraries
+https://www.reactbits.dev/components/model-viewer  React Bits 
+http://velocityjs.org/                             Velocity js
+https://react-spring.dev/                          React-Spring
+https://ui.aceternity.com/                         Accertinity UI
+https://gsap.com/scroll/                           GSAP
+[https://www.npmjs.com/package/@lynx-js/react](https://lynxjs.org/)       LYNX
+https://threejs.org/                               Three.js
+https://mui.com/material-ui/                       Material UI
+https://animejs.com/                               AnimeJS
+https://mantine.dev/                               Mantime Dev
+https://daisyui.com/                               Daisy UI
+https://huntscreens.com/en/products/lynx
+---
