@@ -1,4 +1,4 @@
----
+
 # react-hooks
 useEffect Hooks 
 it has two parameter a call back function  and a dependency array in this hooks we pass things in it if there is change in these function that you  would write in the useEffect if you doing anything to these then useEffect update the page  if there is any chnge in the useEFect a function are variable that are defined in the useEffect it update the page.
@@ -157,6 +157,7 @@ You can then pass the generated ID to different attributes:
   <p id={passwordHintId}>
 </>
 ###React Libraries
+---
 https://www.reactbits.dev/components/model-viewer  React Bits 
 http://velocityjs.org/                             Velocity js
 https://react-spring.dev/                          React-Spring
